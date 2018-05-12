@@ -1,0 +1,33 @@
+_repo: Out-of-Doors-in-the-Holy-Land--Impressions-of-Travel-in-Body-and-Spirit_29314
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 29314-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Van Dyke, Henry
+    aliases:
+    - Dyke, Henry Van
+    - Dyke, Henry I. Van
+    - Dyke, Henry Jackson Van
+    birthdate: 1852
+    deathdate: 1933
+    gutenberg_agent_id: '362'
+    url: http://www.gutenberg.org/2009/agents/362
+    wikipedia: http://en.wikipedia.org/wiki/Henry_van_Dyke
+description: ''
+gutenberg_issued: '2009-07-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29314'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Palestine -- Description and travel'
+- !lcc 'DS'
+- !lcsh 'Authors, American -- 20th century -- Biography'
+- !lcsh 'Van Dyke, Henry, 1852-1933 -- Travel -- Palestine'
+title: 'Out-of-Doors in the Holy Land: Impressions of Travel in Body and Spirit'
+url: http://www.gutenberg.org/ebooks/29314
